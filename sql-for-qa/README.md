@@ -55,7 +55,7 @@ Columns:
 
 
 ## Связи в базе данных
-
+```text
 customers
 |
 | customer_id
@@ -65,6 +65,7 @@ orders
 | product_id
 |
 products
+```
 
 ## Рассматриваемые темы SQL
 
