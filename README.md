@@ -66,6 +66,22 @@ The purpose of this portfolio is to demonstrate experience in API testing, test 
 
 ---
 
+### SQL
+
+- SELECT
+- WHERE
+- ORDER BY
+- LIKE
+- IN
+- BETWEEN
+- Aggregate Functions
+- GROUP BY
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+  
+---
+
 ## Test Documentation
 
 - Test Cases
@@ -79,9 +95,13 @@ The purpose of this portfolio is to demonstrate experience in API testing, test 
 ## Database Testing
 
 - SQL queries
-- Data validation
-- CRUD operations
 - PostgreSQL / MySQL
+- Data validation
+- CRUD verification
+- Data integrity checks
+- Foreign key validation
+- Test case creation
+- Bug reporting
 
 ---
 
@@ -92,6 +112,8 @@ The purpose of this portfolio is to demonstrate experience in API testing, test 
 - Jira
 - Bash/Linux
 - Chrome DevTools
+- MySQL
+- MySQL Workbench
 
 ---
 
