@@ -88,7 +88,7 @@ WHERE products.id IS NULL;
 
 
 
-#BUG_DB_003
+# BUG_DB_003
 
 ## Title
 Цена товара содержит некорректное значение
