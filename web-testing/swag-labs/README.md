@@ -21,3 +21,12 @@ Swag Labs — учебное веб-приложение для тестиров
 - Google Chrome
 - Chrome DevTools
 - GitHub
+
+## Test documentation
+
+- [Test Plan](./TestPlan.md)
+- [Smoke Checklist](./SmokeChecklist.md)
+- [Functional Checklist](./FunctionalChecklist.md)
+- [Test Cases](./TestCases)
+- [Bug Reports](./BugReports)
+- [Test Summary Report](./TestSummaryReport.md)
